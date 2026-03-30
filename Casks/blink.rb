@@ -1,6 +1,6 @@
 cask "blink" do
-  version "0.5.0"
-  sha256 "c272c51f7e7d9342a29596b3711b2ad965bb865350dc7f9dd4d0854cc0b9efc7"
+  version "0.6.0"
+  sha256 "b2336981cfa384846d75fe98333fa37995c5c4421706f7177cf0250af1c1bb1d"
 
   url "https://github.com/bradjenn/blink/releases/download/v#{version}/Blink.dmg"
   name "Blink"
